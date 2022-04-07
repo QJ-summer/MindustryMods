@@ -1,0 +1,46 @@
+{
+	"type":"GenricSmeliter"
+	
+	"requirements": [
+
+{ "item": "copper", "amount": 50},
+
+{ "item": "titanium", "amount": 100},
+
+{ "item": "lead", "amount": 300}
+
+{ "item": "graphite", "amount": 100}
+
+{ "item": "silicon", "amount": 100}
+
+{ "item": "thorium", "amount": 100}
+
+],
+"consumes": {
+
+"power":300,
+
+"items":  {
+
+"items": [
+
+{ "item": "phase-fabric", "amount": 2 }
+
+
+{ "item": "coal", "amount": 2 }
+
+{ "item": "thorium","amount": 2 }
+
+]
+
+},
+
+"liquid": {
+
+"liquid": "water",
+
+"amount": 2
+
+}
+
+},
